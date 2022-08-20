@@ -1,6 +1,6 @@
 # Movie Application
 
-This is an application for looking up movies, fetching them thorugh the [OMDb API](https://www.omdbapi.com).
+This is an application for looking up movies, fetching them through the [OMDb API](https://www.omdbapi.com).
 
 
 ## Available Scripts
