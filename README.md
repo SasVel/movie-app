@@ -1,6 +1,7 @@
 # Movie Application
 
 This is an application for looking up movies, fetching them through the [OMDb API](https://www.omdbapi.com).
+It uses the React framework.
 
 
 ## Available Scripts
