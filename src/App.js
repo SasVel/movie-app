@@ -21,8 +21,8 @@ const App = () => {
 
     return (
         <div className="app">
-            <navig/>
-            <h1>MovieLand</h1>
+            
+            <h1>CinemaWire</h1>
 
             <div className="search"
                 onKeyDown={(e)=> {
